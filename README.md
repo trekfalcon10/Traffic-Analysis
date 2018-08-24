@@ -14,17 +14,17 @@ Additionally included are the following supporting files:
 
 3.  Initial csv files downloaded for merging and cleaning:
 
-    a.  accident.csv
-    b.  distract.csv
-    c.  drimpair.csv
-    d.  factor.csv
-    e.  maneuver.csv
-    f.  pbtype.csv
-    g.  person.csv
-    h.  safetyeq.csv
-    i.  vehicle.csv
-    j.  violatn.csv
-    k.  vision.csv
+    * a.  accident.csv
+    * b.  distract.csv
+    * c.  drimpair.csv
+    * d.  factor.csv
+    * e.  maneuver.csv
+    * f.  pbtype.csv
+    * g.  person.csv
+    * h.  safetyeq.csv
+    * i.  vehicle.csv
+    * j.  violatn.csv
+    * k.  vision.csv
  
 4.  Fatality Analysis Reporting System (FARS) Analytical User's Manual 1975-2015.pdf--Manual from NHTSA that defines the numerical codes used in the csv files
 
