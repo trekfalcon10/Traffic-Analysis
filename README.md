@@ -28,15 +28,19 @@ Additionally included are the following supporting files:
  
 4.  Fatality Analysis Reporting System (FARS) Analytical User's Manual 1975-2015.pdf--Manual from NHTSA that defines the numerical codes used in the csv files
 
-5.  Traffic_Analysis_Report_Data_Clean.ipynb--Initial Data Cleaning portion of the report and code
+5.  traffic_clean.csv--Cleaned and merged csv file composed of initial csv files
 
-6.  Traffic_Statistical_Analysis.ipynb--Statistical Analysis portion of the report and code
+6.  traffic_clean_ml.csv--Machine Learning-prepared csv file
 
-7.  Traffic_Analysis_Milestone_Report.ipynb--Report and code prior to the completion of the machine learning analysis
+7.  Traffic_Analysis_Report_Data_Clean.ipynb--Initial Data Cleaning portion of the report and code
 
-8.  Traffic--Machine Learning Analysis.ipynb--Machine Learning Analysis portion of the report and code
+8.  Traffic_Statistical_Analysis.ipynb--Statistical Analysis portion of the report and code
 
-9.  Traffic_Presentation_Final.pptx--PowerPoint presentation summarizing the present report
+9.  Traffic_Analysis_Milestone_Report.ipynb--Report and code prior to the completion of the machine learning analysis
+
+10.  Traffic--Machine Learning Analysis.ipynb--Machine Learning Analysis portion of the report and code
+
+11. Traffic_Presentation_Final.pptx--PowerPoint presentation summarizing the present report
 
 
 
