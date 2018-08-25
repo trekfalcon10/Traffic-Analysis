@@ -19,12 +19,10 @@ Additionally included are the following supporting files:
     * c.  drimpair.csv
     * d.  factor.csv
     * e.  maneuver.csv
-    * f.  pbtype.csv
-    * g.  person.csv
-    * h.  safetyeq.csv
-    * i.  vehicle.csv
-    * j.  violatn.csv
-    * k.  vision.csv
+    * f.  person.csv
+    * g.  vehicle.csv
+    * h.  violatn.csv
+    * i.  vision.csv
  
 4.  Fatality Analysis Reporting System (FARS) Analytical User's Manual 1975-2015.pdf--Manual from NHTSA that defines the numerical codes used in the csv files
 
